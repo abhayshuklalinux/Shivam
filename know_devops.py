@@ -1,1 +1,1 @@
-print("Understanding devops")
+print("Understanding devops using git and github new account")
